@@ -27,7 +27,7 @@ def generateSet(xmin, xmax, ymin, ymax, width, height, maxIterations):
 
 xmin, xmax = -2.0, 1.0
 ymin, ymax = -1.5, 1.5
-zoom_factor = 0.5  #zoom intensity
+zoom_factor = 0.25  #zoom intensity
 width, height = 800, 800
 maxIterations = 200 #adjust this for clarity - the more iterations, the deeper it goes
 
